@@ -56,6 +56,7 @@ app.use('/cart', cartRoutes);
 app.use('/orders', protectRoutesMiddleware, ordersRoutes);
 app.use('/admin', protectRoutesMiddleware, adminRoutes);
 
+// Not found 
 app.use(notFoundMiddleware);    
 
 // Error handler
