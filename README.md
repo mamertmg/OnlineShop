@@ -10,7 +10,7 @@ This is a complete online shop done in the Udemy's course '100 days of code' fro
 - Frontend with EJS Templating
 
 ## Additional Features
-- Dynamic
+- Dynamic content
 - Sessions & Cookies
 - Authentication & Authorization
 - Input validation
