@@ -1,7 +1,7 @@
 # Online Shop
 
 ## Description
-This is a complete online shop 
+This is a complete online shop done in the Udemy's course '100 days of code' from Academind.
 
 ## Stack
 - NodeJS backend
